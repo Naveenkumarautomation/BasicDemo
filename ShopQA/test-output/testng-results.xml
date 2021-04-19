@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-19T17:11:57 IST" name="Default suite" finished-at="2021-04-19T17:13:50 IST" duration-ms="113617">
+    <groups>
+    </groups>
+    <test started-at="2021-04-19T17:11:57 IST" name="Default test" finished-at="2021-04-19T17:13:50 IST" duration-ms="113617">
+      <class name="com.demo.shop.SymbionShopDemo">
+        <test-method is-config="true" signature="launch_Application()[pri:0, instance:com.demo.shop.SymbionShopDemo@78e94dcf]" started-at="2021-04-19T17:11:57 IST" name="launch_Application" finished-at="2021-04-19T17:12:33 IST" duration-ms="35785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Application -->
+        <test-method signature="order_reference()[pri:0, instance:com.demo.shop.SymbionShopDemo@78e94dcf]" started-at="2021-04-19T17:12:33 IST" name="order_reference" finished-at="2021-04-19T17:13:50 IST" duration-ms="77623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_reference -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.demo.shop.SymbionShopDemo@78e94dcf]" started-at="2021-04-19T17:13:50 IST" name="teardown" finished-at="2021-04-19T17:13:50 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.shop.SymbionShopDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
